@@ -8,7 +8,7 @@ let conferences = [
     // AI
     "AAAI", "ACM MM", "IJCAI", "IJCNN", "SIGGRAPH",
     // CV
-    "ECCV", "ICCV", "ICME", "ICPR", "SIGGRAPH", "CVPR"
+    "ECCV", "ICCV", "ICME", "ICPR", "SIGGRAPH", "CVPR",
     // DM
     "CIKM", "DASFAA", "ECML-PKDD", "ICDE", "ICDM", "KDD", "PAKDD", "PODS", "RecSys", "SDM", "SIGMOD", "VLDB", "WSDM", "WWW", "EDBT", "CIDR",
     // IR
