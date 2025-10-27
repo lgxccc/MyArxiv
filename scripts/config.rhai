@@ -25,6 +25,7 @@ let titles_method = [
   "Trigger", "Context Infection", "Paralysis", "Cascade Trigger", "Safety Decoding"
 ];
 let titles = titles_model + titles_method + titles_type;
+let authors_array = ["Yann LeCun", "Geoffrey Hinton", "Yoshua Bengio"];
 // 会议 / 期刊列表（AI安全 / LLM安全 / ML / NLP相关）
 let conferences = [
   "S&P", "USENIX", "NDSS", "CCS", "RAID", "ESORICS", "ACSAC",
