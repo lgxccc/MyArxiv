@@ -24,10 +24,7 @@ let titles_method = [
   "Evaluation", "Debias", "Steering", "Constrained Decoding",
   "Trigger", "Context Infection", "Paralysis", "Cascade Trigger", "Safety Decoding"
 ];
-
-// 合并所有关键词
-let titles = titles_model.concat(titles_method, titles_type);
-
+let titles = titles_model + titles_method + titles_type;
 // 会议 / 期刊列表（AI安全 / LLM安全 / ML / NLP相关）
 let conferences = [
   "S&P", "USENIX", "NDSS", "CCS", "RAID", "ESORICS", "ACSAC",
